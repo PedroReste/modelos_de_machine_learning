@@ -1,0 +1,3 @@
+Em outra pasta do meu Github[link da pasta], eu trabalhei com uma análise descretiva geral dos dados de um ecommerce indiano oriundo do Kaggle[link], demonstrando todos os achados gerais e pontos relevantes sobre a base de dados.
+
+Esse documento tem a proposta de aprofundarmos esses estudos, mas agora focando em uma análise do dados com base na váriavel Churn com o dataset tratado que foi gerado no estudo anterior e depois rodar modelos de Decisão de Árvore para esses dados, tanto para base toda, quanto para segmentos específicos dessa base, possibilitando encontrar subgrupos dentro do dataset.
