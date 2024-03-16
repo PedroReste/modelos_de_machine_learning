@@ -22,3 +22,20 @@ Aplicando essa técnica não causou tantas observações removidas, apenas 282 e
 
 # **Resumo dos modelos**
 
+Foi selecionado para prever o churn dessa base de clientes os modelo de Árvore de Decisão e Random Forest.
+
+Verificando as métricas de desempenho dos modelos, ambos modelos apresentaram ótimo desempenho para classifacar e prever novos usuários com base nas suas carectrísticas.
+
+Para estudos futuros é ainda possível aprofundar a validações para entender esses modelos poderiam entrar em produção em uma empresa e utilizar para sub-grupos para segmentos de clientes específicos e não para o geral da base.
+
+Abaixo alguns resultados gráficos encontrados:
+
+**Resultado da curva ROC para a Árvore de Decisão**
+![Curva ROC Árvore de Decisão](curva_roc_decision_tree.png)
+
+**Gráfico mostrando TODAS as decisões feitas pelo modelo**
+![Árvore de Decisão](decision_tree.png)
+
+**Gráfico mostrando apenas os 03 primeiros nós das decisões feitas pelo modelo**
+![Árvore de Decisão, os 03 primeiros nós](decision_tree_max_depth_3.png)
+
