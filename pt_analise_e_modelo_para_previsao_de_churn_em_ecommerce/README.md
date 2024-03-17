@@ -14,6 +14,7 @@ Ato de um cliente deixar de consumir produtos e serviços de um empresa por moti
 Realizando algumas análises gráficas não foi possível verificar um relação tão notória entre as variáveis e o churn, quando gerado o gráfico da matriz de correlação foi possível verificar que muitas das variáveis não tinham tanta relação entre si, mas a siginificância estátistica (p-valor) estava presente para maioria, principalmente com o churn.
 
 **Matriz de Correlação**
+
 ![Matriz de Correlação](matriz_de_correlacao.jpeg)
 
 Além desse comparativos, foi feito mais um tratamento para remover os outliers dos dados com a seguinte técnica estatística: diferença de 03 vezes o valor do desvio-padrão em relação a média dos dados, em outras palavras, dados que estavam acima ou abaixo dessa regra foram removidos para trabalharmos no modelo.
