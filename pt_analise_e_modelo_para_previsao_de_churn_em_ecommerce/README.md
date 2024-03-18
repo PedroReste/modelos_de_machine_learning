@@ -1,5 +1,7 @@
 # Análise e previsão de churn para e-commerce
 
+**Observação! Após estudar mais, percebi que fiz alguns erros no processo de criação do modelo, logo criarei uma nova pasta com o processo mais refinado**
+
 **O que você vai encontrar aqui?**
 
 Nessa pasta será dado continuidade em um estudo de churn para um e-commerce, focando em uma [análise](https://github.com/PedroReste/prescriptive_and_prediction_analysis/blob/main/pt_analise_e_modelo_para_previsao_de_churn_em_ecommerce/analise_de_dados_focado_para_o_modelo_de_churn.ipynb) comparando a variável churn com as demais do dataset e [geração de modelos](https://github.com/PedroReste/prescriptive_and_prediction_analysis/blob/main/pt_analise_e_modelo_para_previsao_de_churn_em_ecommerce/modelo_de_previsao_de_churn_em_um_ecommerce.ipynb) de previsão para o churn.
