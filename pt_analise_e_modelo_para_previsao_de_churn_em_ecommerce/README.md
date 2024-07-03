@@ -1,6 +1,6 @@
 # Análise e previsão de churn para e-commerce
 
-**Observação! Após estudar mais, percebi que fiz alguns erros no processo de criação do modelo, logo criarei uma nova pasta com o processo mais refinado**
+**<span style="color:red">Observação! Após estudar mais, percebi que fiz alguns erros no processo de criação do modelo, logo criarei uma nova pasta com o processo mais refinado</span>**
 
 **O que você vai encontrar aqui?**
 
