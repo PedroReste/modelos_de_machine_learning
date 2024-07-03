@@ -2,7 +2,7 @@
 
 ## **O que você vai encontrar aqui?**
 
-Nessa pasta é apresentado algumas formas de realizar *feature selection* para momentos que um dataset é vasto, se tornando inviável realizar análises exploratórias e verificar variável por variável. Em um post no [Medium]() é explicando o conceito de cada técnica de forma mais aprofundada enquanto aqui é apresentado todo o processo dentro de um script.
+Nessa pasta é apresentado algumas formas de realizar *feature selection* para momentos que um dataset é vasto, se tornando inviável realizar análises exploratórias e verificar variável por variável. Em um post no [Medium](https://medium.com/@pedroreste/técnicas-de-feature-selection-para-múltiplas-variáveis-bf320a2d97c9) é explicando o conceito de cada técnica de forma mais aprofundada enquanto aqui é apresentado todo o processo dentro de um script.
 
 **Quais métodos foram abordados?**
 - Filtro por quantidade de missing data
