@@ -1,4 +1,4 @@
-# **[PT]** Modelo de Recomendação de Produtos
+# Modelo de Recomendação de Produtos
 **O que você vai encontrar nessa pasta?** \
 Uma aplicação de machine learning para recomendar novos produtos para clientes de um e-commerce. Esses clientes já estão sem fazer uma nova compra a mais de 30 dias, mas ainda estão na janela de clientes que poderiam voltar para realizar uma nova compra - abaixo de 90 dias desde a última compra realizada. \
 O modelo de machine learning será aplicado para entender as caracterísitcas dos usuários e dos produtos disponíveis nas bases desse e-commerce para gerar novas recomendações de produtos para esses clientes que serão impactados nas ações de marketing, aumentando a possibildiade desses clientes impactados de converterem com essas recomendações.
@@ -27,17 +27,6 @@ A intenção inicial do material era desenvolver um modelo de recomendação com
 
 **Desempenho de Cada Modelo**
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
